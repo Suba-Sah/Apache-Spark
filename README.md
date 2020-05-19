@@ -1,4 +1,4 @@
-# SparkCourse
+# Spark
 Learning to play with Apache Spark
 
 https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
