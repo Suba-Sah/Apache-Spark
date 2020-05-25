@@ -1,8 +1,6 @@
 # Spark
 Learning to play with Apache Spark
 
-https://www.udemy.com/course/taming-big-data-with-apache-spark-hands-on/
-
 1. Use DataFrames and Structured Streaming in Spark 3
 2. Frame big data analysis problems as Spark problems
 3. Use Amazon's Elastic MapReduce service to run your job on a cluster with Hadoop YARN
